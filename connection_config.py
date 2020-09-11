@@ -1,5 +1,5 @@
 
-# Taken from: https://www.mysqltutorial.org/python-connecting-mysql-databases/
+# Inspired by, code amended to work for SQLalchemy connections: https://www.mysqltutorial.org/python-connecting-mysql-databases/
 
 from configparser import ConfigParser
 
