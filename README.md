@@ -16,6 +16,7 @@ We have produced a standalone Jupyter Notebook. When running this notebook, it a
 
 
 3. **Analysis of UK population mobility**:
+
 Using data on petrol and diesel sales for 2020 so far as well as the Oxford Stringency Index, we analysed the effects of government policies and rules on mobility. Further, we looked at both Apple’s and Google’s mobility data to analyse potential results from the lockdown rules.
 Our overall finding is that the government's measures decreased mobility, reflected in changes in habits and means of transports. 
 
