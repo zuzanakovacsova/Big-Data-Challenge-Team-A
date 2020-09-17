@@ -3,7 +3,7 @@
 **Description of Project**  
 Our Juypter Notebook enables reading in, displaying and analysing data from our own Google Cloud hosted database. The data on the database is provided in CSV files, allowing straightforward access to the files. 
 
-**Running the application:**  
+**Running the Notebook:**  
 We have produced a standalone Jupyter Notebook. When running this notebook, it accesses our own database hosted on Google Clouds.
 
 **Features:**
