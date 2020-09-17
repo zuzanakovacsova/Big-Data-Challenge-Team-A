@@ -1,4 +1,4 @@
-# Code First Girls Big-Data-Challenge 2020-Team-A
+# Code First Girls Big Data Challenge 2020-Team A
 
 **Description of Project**  
 Our Juypter Notebook enables reading in, displaying and analysing data from our own Google Cloud hosted database. The data on the database is provided in CSV files, allowing straightforward access to the files. 
